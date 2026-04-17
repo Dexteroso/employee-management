@@ -70,6 +70,7 @@ Ahí se puede:
 - Algunos cálculos (como turnover) son aproximaciones basadas en los datos disponibles  
 
 ## Comentarios finales
+
 Este proyecto me ayudó a entender cómo conectar un frontend con un backend, trabajar con bases de datos y estructurar una aplicación full stack.
 
 También me permitió practicar la creación de dashboards, manejo de datos y mejorar la experiencia de usuario.
